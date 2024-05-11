@@ -1,6 +1,6 @@
 # EXP : 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
-## Register no: 212222110032
-## Name: Prabha C
+## Register no: 212223220064
+## Name: NARESH.M
 ## AIM:
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
